@@ -24,14 +24,12 @@
       <version>1.7.0.3</version>
       <scope>test</scope>
     </dependency>
-   <dependency>
+    <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-test-junit</artifactId>
       <version>1.4.10</version>
       <scope>test</scope>
     </dependency>
-
-
   </dependencies>
   <build>
     <sourceDirectory>src/main/kotlin</sourceDirectory>

@@ -6,9 +6,5 @@ import org.junit.Test
 
 class AppKtTest {
 
-    @Test
-    fun parseNameOnly() {
-        val data = "Даниил Демидко С"
-        assertThat(data.parseNameOnly(), equalTo("Даниил"))
-    }
+
 }
